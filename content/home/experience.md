@@ -26,7 +26,7 @@ experience:
     company: Chinasoft International
     company_url: 'www.chinasofti.com'
     company_logo: org-gc
-    location: California
+    location: 
     date_start: '2022-06-30'
     date_end: '2022-07-30'
     description: |2-
