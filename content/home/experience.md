@@ -23,11 +23,11 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    company: Chinasoft International
+    company_url: 'https://www.chinasofti.com'
+    company_logo: Chinasoft
+    location: 
+    date_start: '2022-06-30'
     date_end: ''
     description: |2-
         Responsibilities include:
