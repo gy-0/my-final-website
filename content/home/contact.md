@@ -30,7 +30,7 @@ content:
   contact_links:
     - icon: telegram
       icon_pack: fab
-      name: DM Me
+      name: Contact on Telegram
       link: 'https://t.me/gao_yuan'
 
 design:
