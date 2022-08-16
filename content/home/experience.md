@@ -30,8 +30,6 @@ experience:
     date_start: '2021-01-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
-        
         * Front-end and back-end development with Java;
         * HTML basics, JavaScript basics, CSS3 selectors, styles and layouts.
         * Debugging and developing of frameworks such as Mybatis, Sping, SpringMVC, etc.
