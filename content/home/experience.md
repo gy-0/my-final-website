@@ -27,8 +27,8 @@ experience:
     company_url: ''
     company_logo: org-gc
     location: California
-    date_start: '2021-01-01'
-    date_end: ''
+    date_start: '2022-06-30'
+    date_end: '2022-07-30'
     description: |2-
         * Front-end and back-end development with Java;
         * HTML basics, JavaScript basics, CSS3 selectors, styles and layouts.
