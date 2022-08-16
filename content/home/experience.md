@@ -25,7 +25,7 @@ experience:
   - title: Internship
     company: Chinasoft International
     company_url: 'www.chinasofti.com'
-    company_logo: org-gc
+    company_logo: Chinasoft
     location: 
     date_start: '2022-06-30'
     date_end: '2022-07-30'
