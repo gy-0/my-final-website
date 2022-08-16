@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Internship
     company: Chinasoft International
-    company_url: ''
+    company_url: 'www.chinasofti.com'
     company_logo: org-gc
     location: California
     date_start: '2022-06-30'
