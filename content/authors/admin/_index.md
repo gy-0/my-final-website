@@ -27,12 +27,6 @@ social:
   - icon: telegram
     icon_pack: fab
     link: https://t.me/gao_yuan
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/%E6%BA%90-%E9%AB%98-55244915a
