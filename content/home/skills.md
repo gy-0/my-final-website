@@ -18,16 +18,16 @@ subtitle:
 feature:
   - description:
     icon: SQL
-    icon_pack: fab
-    name: MySQL
+    icon_pack: fas
+    name: database
   - description:
     icon: Python
     icon_pack: fas
-    name: Python
+    name: python
   - description:
-    icon: C++
+    icon: C & C++
     icon_pack: fas
-    name: C++
+    name: c
   - description:
     icon: data
     icon_pack: fas
