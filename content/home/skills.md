@@ -17,19 +17,19 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - description:
-    icon: SQL
+    icon: database
     icon_pack: fas
-    name: database
+    name: MySQL
   - description:
-    icon: Python
+    icon: python
     icon_pack: fas
-    name: python
+    name: Python
   - description:
-    icon: C & C++
+    icon: c
     icon_pack: fas
-    name: c
+    name: C & C++
   - description:
-    icon: data
+    icon: folder-tree
     icon_pack: fas
     name: Data Structures
 # Uncomment to use emoji icons.
