@@ -17,21 +17,9 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - description:
-    icon: MySQL
-    icon_pack: custom
-    name: MySQL
-  - description:
-    icon: python
-    icon_pack: custom
-    name: Python
-  - description:
     icon: cpp
     icon_pack: custom
     name: C & C++
-  - description:
-    icon: ds
-    icon_pack: custom
-    name: Data Structures & Algorithms
   - description:
     icon: net
     icon_pack: custom
@@ -40,6 +28,19 @@ feature:
     icon: math
     icon_pack: custom
     name: Calculus & Linear Algebra
+  - description:
+    icon: ds
+    icon_pack: custom
+    name: Data Structures & Algorithms
+  - description:
+    icon: MySQL
+    icon_pack: custom
+    name: MySQL
+  - description:
+    icon: python
+    icon_pack: custom
+    name: Python
+
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
