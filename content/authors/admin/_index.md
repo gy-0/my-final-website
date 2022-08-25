@@ -13,13 +13,13 @@ organizations:
     url: http://cstc.hrbeu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
 
 # Interests to show in About widget
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+# interests:
+#   - Artificial Intelligence
+#   - Computational Linguistics
+#   - Information Retrieval
 social:
   - icon: envelope
     icon_pack: fas
@@ -42,7 +42,7 @@ email: "one@hrbeu.edu.cn"
 superuser: true
 highlight_name: true
 ---
-Hi, my name is Yuan Gao, I'm a student of CS from Harbin Engineering University, China 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi, my name is Yuan Gao, I'm a student of CS at Harbin Engineering University, China. I'm interested in fields such as AI and ML. With a solid academic background in Computer Science, I want to get further study oppertunities in MSc
+His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
