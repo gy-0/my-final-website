@@ -17,21 +17,29 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - description:
-    icon: database
-    icon_pack: fas
+    icon: MySQL
+    icon_pack: custom
     name: MySQL
   - description:
     icon: python
-    icon_pack: fas
+    icon_pack: custom
     name: Python
   - description:
-    icon: c
-    icon_pack: fas
+    icon: cpp
+    icon_pack: custom
     name: C & C++
   - description:
-    icon: folder-tree
-    icon_pack: fas
-    name: Data Structures
+    icon: ds
+    icon_pack: custom
+    name: Data Structures & Algorithms
+  - description:
+    icon: net
+    icon_pack: custom
+    name: Computer Networks
+  - description:
+    icon: math
+    icon_pack: custom
+    name: Calculus & Linear Algebra
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
