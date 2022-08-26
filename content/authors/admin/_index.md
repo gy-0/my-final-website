@@ -42,11 +42,11 @@ email: "one@hrbeu.edu.cn"
 superuser: true
 highlight_name: true
 ---
-Hi, my name is **Yuan Gao**. I'm a student of CS at *Harbin Engineering University, China*. 
+Hi, my name is **Yuan Gao**. I’m a student of CS at Harbin Engineering University, China.
 
-I'm the kind of person who is always curious about how different things work. With a solid academic background in *Computer Science* and research experiences in NLP and Image Processing, I want to continue my study and research in AI and ML.
+Having a solid academic background in Computer Science and research experiences in Natural Language Processing and Image Processing, I want to pursue my studies and research in the areas like AI and Machine Learning.
 
-Unlike *"typical Chinese students"*, I consider myself an energetic, diligent, and creative person with critical thinking, an entrepreneurial spirit, and a broad worldview.
+I’m the kind of person who is always curious about how different things work. Unlike *"typical Chinese students"*, I consider myself an energetic, diligent, and creative person with critical thinking, an entrepreneurial spirit, and a broad worldview. 
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
