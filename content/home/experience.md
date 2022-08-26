@@ -31,8 +31,7 @@ experience:
     date_end: '2022-07-30'
     description: |2-
         * Front-end and back-end development with Java;
-        * HTML basics, JavaScript basics, CSS3 selectors, styles and layouts.
-        * Debugging and developing of frameworks such as Mybatis, Sping, SpringMVC, etc.
+        * HTML basics, JavaScript basics.
 
   - title: Professor of Semiconductor Physics
     company: University X

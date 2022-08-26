@@ -26,7 +26,7 @@ content:
 
   # Contact details (edit or remove options as required)
   email: one@hrbeu.edu.cn
-  phone: (+1)832-304-1351
+  phone: (+1) 832-304-1351
   contact_links:
     - icon: telegram
       icon_pack: fab
