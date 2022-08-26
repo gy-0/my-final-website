@@ -33,15 +33,16 @@ experience:
         * Front-end and back-end development with Java;
         * HTML basics, JavaScript basics.
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Image Processing Research
+    company: Harbin Engineering University
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
-
+    company_logo: heu
+    location: 
+    date_start: '2022-04-01'
+    date_end: '2022-06-01'
+    description: |2-
+       * Apply object detection models such as R-CNN and ResNet-50, customize existing models, and build models to detect, localize, and label images.
+       * Implement image segmentation using variations of the fully convolutional network (FCN).
 design:
   columns: '2'
 ---
