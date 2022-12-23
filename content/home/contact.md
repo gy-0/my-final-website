@@ -25,13 +25,13 @@ content:
   #     captcha: false
 
   # Contact details (edit or remove options as required)
-  email: one@hrbeu.edu.cn
-  phone: (+1) 832-304-1351
+  email: yuan@fbi.gov
+  phone: 
   contact_links:
     - icon: telegram
       icon_pack: fab
       name: Contact Me on Telegram
-      link: 'https://t.me/gao_yuan'
+      link: 'https://t.me/elonmusk'
 
 design:
   columns: '2'
