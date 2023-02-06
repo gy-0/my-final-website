@@ -31,7 +31,7 @@ content:
     - icon: telegram
       icon_pack: fab
       name: Contact Me on Telegram
-      link: 'https://t.me/elonmusk'
+      link: 'https://t.me/Gao_Yuan'
 
 design:
   columns: '2'

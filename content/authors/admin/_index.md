@@ -10,7 +10,7 @@ role: Student of Computer Science
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Harbin Engineering University, China
-    url: http://cstc.hrbeu.edu.cn/
+    url: http://hrbeu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -42,11 +42,13 @@ email: "one@hrbeu.edu.cn"
 superuser: true
 highlight_name: true
 ---
-Hi, my name is **Yuan Gao**. I’m a student of CS at Harbin Engineering University, China.
+Hello, my name is **Yuan Gao**, a Computer Science student at Harbin Engineering University in China. I have a solid foundation in CS and have gained valuable experience through my research in the fields of Natural Language Processing and Image Processing. I believe that my academic background and hands-on experience will enable me to make meaningful contributions to the field of AI and Machine Learning.
 
-Having a solid academic background in Computer Science and research experiences in Natural Language Processing and Image Processing, I want to pursue my studies and research in the areas like AI and Machine Learning.
+I’m the kind of person who is always curious about how different things work. Unlike *"typical Chinese students"*, I value critical thinking, creativity, and an entrepreneurial spirit, and I strive to apply these qualities to all aspects of my life.
 
-I’m the kind of person who is always curious about how different things work. Unlike *"typical Chinese students"*, I consider myself an energetic, diligent, and creative person with critical thinking, an entrepreneurial spirit, and a broad worldview. 
+In my free time, I enjoy reading, traveling, and playing sports. I believe that it is important to maintain a well-rounded perspective, and I am always seeking new experiences and learning opportunities.
+
+I am excited to share my journey and experiences with you, and I hope to inspire you to pursue your passions and reach for their goals.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
