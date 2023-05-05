@@ -42,13 +42,12 @@ email: "one@hrbeu.edu.cn"
 superuser: true
 highlight_name: true
 ---
-Hello, my name is **Yuan Gao**, a Computer Science student at Harbin Engineering University in China. I have a solid foundation in CS and have gained valuable experience through my research in the fields of Natural Language Processing and Image Processing. I believe that my academic background and hands-on experience will enable me to make meaningful contributions to the field of AI and Machine Learning.
+Hello, my name is **Yuan Gao**, a Computer Science student at Harbin Engineering University in China. I have built a strong foundation in CS and gained valuable experience through my research in the fields of Natural Language Processing and Image Processing. I believe that my academic background and practical experience will enable me to contribute significantly to the field of AI and Machine Learning.
 
-I’m the kind of person who is always curious about how different things work. Unlike *"typical Chinese students"*, I value critical thinking, creativity, and an entrepreneurial spirit, and I strive to apply these qualities to all aspects of my life.
+I'm a naturally curious individual who enjoys understanding the inner workings of various systems. Contrary to the stereotype of a *"typical Chinese student"*, I value critical thinking, creativity, and an entrepreneurial spirit, and I strive to apply these qualities to all aspects of my life.
 
-In my free time, I enjoy reading, traveling, and playing sports. I believe that it is important to maintain a well-rounded perspective, and I am always seeking new experiences and learning opportunities.
+In my leisure time, I relish reading, traveling, and engaging in sports. I believe in maintaining a well-rounded perspective and continually seek new experiences and learning opportunities.
 
-I am excited to share my journey and experiences with you, and I hope to inspire you to pursue your passions and reach for their goals.
-
+I am thrilled to share my journey and experiences with you, and I hope to inspire you to pursue your passions and strive for your goals.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
